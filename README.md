@@ -2,11 +2,10 @@
 <br>
 The website live link
 <br>
-<br>
 https://miranda-portfolio-clone-by-parth.netlify.app/
 <br>
-The original website link
 <br>
+The original website link
 <br>
 https://www.niccolomiranda.com/
 <br>
